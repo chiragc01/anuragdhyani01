@@ -56,7 +56,7 @@ const Header = () =>  (
         <SocialIcons href="https://www.hackerrank.com/anuragdhyani01">
           <FaHackerrank size="3rem"/>
         </SocialIcons>
-        <SocialIcons href="https://medium.com/anuragdhyani01"> 
+        <SocialIcons href="https://medium.com/@anuragdhyani01"> 
           <AiFillMediumSquare size="3rem" />
         </SocialIcons> 
 
