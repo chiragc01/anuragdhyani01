@@ -38,10 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey in B.Tech Computer science', },
-  { year: 2018, text: 'Learned about data-structures and algorithms.', },
-  { year: 2019, text: 'Got intrested in ML/DL world, learned python, SQL even won a data science competition', },
-  { year: 2020, text: 'Got to know machine learning is more then sk-learn and XG-Boost decided to pursue masters.', },
+  { year: 2017-20, text: '"In 2017, I started my Bachelor's degree in Computer Science. Over the next few years, I gained a solid foundation in data structures and algorithms. In 2019, I discovered the world of Machine Learning and Deep Learning, learned Python and SQL, and even won a data science competition. This experience sparked a deeper interest in machine learning, and I decided to pursue a Master's degree in 2020."', },
   { year: 2021, text: 'Qualified GATE, Also Got offer from IIT Madras. Took admission in NSIT, Delhi', },
-  { year: 2022, text: 'Currently looking topic for research, also exploring blockchain technology', },
+  { year: 2022, text: 'Intern at ValueMatrix.ai: Designed and implemented a back-end service for parallel execution of deep learning models, deployed on AWS EC2.', },
+  { year: 2023, text: 'Amazon Intern: Developed web applications for internal audits, created rule-based Batch-Jobs using AWS EventBridge, and reduced delayed on-boarding status for delivery service providers by 10% in EU and 4% in NA regions.', },
+  { year: 2024, text: 'Joined Synopsys in July 2023 as a Senior Engineer in Noida. Implemented parallelization for faster verification of eco designs, migrated customer testcases to support Fusion Compiler, and developed a regression run monitoring dashboard using C++, Python, and Streamlit.', },
 ];
