@@ -38,9 +38,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017-20, text: '"In 2017, I started my Bachelor's degree in Computer Science. Over the next few years, I gained a solid foundation in data structures and algorithms. In 2019, I discovered the world of Machine Learning and Deep Learning, learned Python and SQL, and even won a data science competition. This experience sparked a deeper interest in machine learning, and I decided to pursue a Master's degree in 2020."', },
+  { year: 2017-20, text: 'Started my journey in B.Tech Computer science and learned about DSAthen got to know about machine learning and decided to pursue masters', },
   { year: 2021, text: 'Qualified GATE, Also Got offer from IIT Madras. Took admission in NSIT, Delhi', },
-  { year: 2022, text: 'Intern at ValueMatrix.ai: Designed and implemented a back-end service for parallel execution of deep learning models, deployed on AWS EC2.', },
-  { year: 2023, text: 'Amazon Intern: Developed web applications for internal audits, created rule-based Batch-Jobs using AWS EventBridge, and reduced delayed on-boarding status for delivery service providers by 10% in EU and 4% in NA regions.', },
-  { year: 2024, text: 'Joined Synopsys in July 2023 as a Senior Engineer in Noida. Implemented parallelization for faster verification of eco designs, migrated customer testcases to support Fusion Compiler, and developed a regression run monitoring dashboard using C++, Python, and Streamlit.', },
+  { year: 2022, text: 'Did internship at ValueMatrix.ai  and implemented a back-end service,enabled parallel execution of deep learning models and later deployed it on AWS EC2.', },
+  { year: 2023, text: ' Did internship at Amazon logistics learned  and a lot about last mile delivery', },
+  { year: 2024, text: 'Joined Synopsys and working as a senior engineer', },
 ];
+ 
