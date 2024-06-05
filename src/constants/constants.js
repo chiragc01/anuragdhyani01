@@ -38,7 +38,7 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017-20, text: 'Started my journey in B.Tech Computer science and learned about DSAthen got to know about machine learning and decided to pursue masters', },
+  { year: 2017_20, text: 'Started my journey in B.Tech Computer science and learned about DSAthen got to know about machine learning and decided to pursue masters', },
   { year: 2021, text: 'Qualified GATE, Also Got offer from IIT Madras. Took admission in NSIT, Delhi', },
   { year: 2022, text: 'Did internship at ValueMatrix.ai  and implemented a back-end service,enabled parallel execution of deep learning models and later deployed it on AWS EC2.', },
   { year: 2023, text: ' Did internship at Amazon logistics learned  and a lot about last mile delivery', },
