@@ -38,10 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey in B.Tech Computer science', },
-  { year: 2018, text: 'Learned about data-structures and algorithms.', },
-  { year: 2019, text: 'Got intrested in ML/DL world, learned python, SQL even won a data science competition', },
-  { year: 2020, text: 'Got to know machine learning is more then sk-learn and XG-Boost decided to pursue masters.', },
-  { year: 2021, text: 'Qualified GATE, Also Got offer from IIT Madras. Took admission in NSIT, Delhi', },
-  { year: 2022, text: 'Currently looking topic for research, also exploring blockchain technology', },
+  { year: `2017-20`, text: 'Started my journey in B.Tech Computer science and learned about DSA then got to know about machine learning and decided to pursue masters', },
+  { year: 2021, text: 'Qualified GATE, got offer from IIT Madras. Took admission in NSIT, Delhi', },
+  { year: 2022, text: 'Did internship at valuematrix.ai AI based receuitement platform worked in AI-ML domain.', },
+  { year: 2023, text: 'Interned at Amazon in last mile delivery service worked with Java-Spring and AWS services. Joined Synopsys post internship.', },
+  { year: 2024, text: 'Currently working as Senior Software Engineer at Synopsys in formal verification and SAT solving space.', },
 ];
